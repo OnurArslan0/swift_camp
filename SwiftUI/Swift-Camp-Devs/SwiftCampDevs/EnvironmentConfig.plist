@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Environment</key>
+	<string>DEV</string>
+	<key>API_BASE_URL</key>
+	<string>base_url_here</string>
+	<key>API_KEY</key>
+	<string>api_key_here</string>
+	<key>ONESIGNAL_APP_ID</key>
+	<string>6c93ba0a-546b-48bd-9a4a-00b282cae865</string>
+	<key>ENCRYPTION_KEY</key>
+	<string>encryption_key_here</string>
+</dict>
+</plist>
